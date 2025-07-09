@@ -1,2 +1,2 @@
-<p align="left">⚡️js,py,sql</p>
-<p align="left">⛱️diploma of IT (adv programming)</p>
+# 💫 About Me:
+✨js, py, go, sql
