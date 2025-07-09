@@ -1,2 +1,2 @@
-# 💫 About Me:
+# languages:
 ✨js, py, go, sql
